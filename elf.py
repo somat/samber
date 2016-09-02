@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import sys
 from elftools.elf.elffile import ELFFile
 from elftools.common.exceptions import ELFError
