@@ -3,7 +3,7 @@
 
 import psutil
 
-class Samber():
+class Samber(object):
     def gen_process(self):
 
         for proc in psutil.process_iter():
